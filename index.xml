@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ThieuBlog</title>
+    <link>https://blogthieu.netlify.app/</link>
+    <description>Recent content on ThieuBlog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>thieu080103@gmail.com (Nguyễn Văn Thiều)</managingEditor>
+    <webMaster>thieu080103@gmail.com (Nguyễn Văn Thiều)</webMaster>
+    <lastBuildDate>Sat, 28 Dec 2024 22:02:42 +0800</lastBuildDate>
+    <atom:link href="https://blogthieu.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bắt Đầu Với JavaScript</title>
+      <link>https://blogthieu.netlify.app/post/2024/review_js/</link>
+      <pubDate>Sat, 28 Dec 2024 22:02:42 +0800</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/post/2024/review_js/</guid>
+      <description>&lt;p&gt;JavaScript là một ngôn ngữ lập trình mạnh mẽ và linh hoạt, chủ yếu được sử dụng để phát triển ứng dụng web. Nó cho phép bạn tạo ra các trang web tương tác và động. Trong hướng dẫn này, bạn sẽ tìm hiểu về các khái niệm cơ bản của JavaScript và cách sử dụng nó trong phát triển web.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lưu ý&lt;/strong&gt;:Để xem thêm các hướng dẫn khác, hãy truy cập &lt;a href=&#34;https://www.w3schools.com/js/&#34;&gt; Hướng dẫn JavaScript trên W3Schools&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;yêu-cầu&#34;&gt;Yêu cầu&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Trình duyệt web&lt;/strong&gt; Bất kỳ trình duyệt hiện đại nào (Chrome, Firefox, Safari, Edge) đều có thể chạy JavaScript..&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Công cụ để chỉnh sửa mã.&lt;/strong&gt; Bất kỳ trình soạn thảo văn bản hoặc IDE (như IntelliJ IDEA, Eclipse hoặc NetBeans) nào cũng đều phù hợp..&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Bắt Đầu Với Lập Trình Java</title>
+      <link>https://blogthieu.netlify.app/post/2024/review_java/</link>
+      <pubDate>Sat, 28 Dec 2024 22:02:42 +0800</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/post/2024/review_java/</guid>
+      <description>&lt;p&gt;Java là một ngôn ngữ lập trình đa năng và được sử dụng rộng rãi, cho phép bạn tạo ra các ứng dụng cho nhiều nền tảng khác nhau. Trong hướng dẫn này, bạn sẽ thiết lập môi trường phát triển Java, viết chương trình Java đầu tiên và hiểu các khái niệm cơ bản về lập trình Java&lt;/p&gt;&#xA;&lt;p&gt;Hướng dẫn này giới thiệu những điều cơ bản về lập trình Java. Java là một ngôn ngữ lập trình đa năng và được sử dụng rộng rãi, cho phép bạn tạo ra các ứng dụng cho nhiều nền tảng khác nhau.&lt;/p&gt;&#xA;&lt;p&gt;Trong hướng dẫn này, bạn sẽ thiết lập môi trường phát triển Java, viết chương trình Java đầu tiên và hiểu các khái niệm cơ bản về lập trình Java.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lưu ý&lt;/strong&gt;:Để xem thêm các hướng dẫn khác, hãy truy cập &lt;a href=&#34;https://www.w3schools.com/java/&#34;&gt; Hướng dẫn Java trên W3Schools.&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;yêu-cầu&#34;&gt;Yêu cầu&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cài đặt Java Development Kit (JDK).&lt;/strong&gt; Đảm bảo bạn đã cài đặt JDK 8 hoặc phiên bản mới hơn.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Công cụ để chỉnh sửa mã.&lt;/strong&gt; Bất kỳ trình soạn thảo văn bản hoặc IDE (như IntelliJ IDEA, Eclipse hoặc NetBeans) nào cũng đều phù hợp..&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Một terminal.&lt;/strong&gt; Java hoạt động tốt trên bất kỳ terminal nào trên Linux và Mac, cũng như trên Command Prompt hoặc PowerShell trong Windows&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hãy chắc chắn rằng bạn đã cài đặt JDK từ &lt;a href=&#34;https://www.oracle.com/java/technologies/downloads/#java11?er=221886&#34;&gt;trang chính thức của Oracle.&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Khám Phá AJAX Trong JavaScript</title>
+      <link>https://blogthieu.netlify.app/post/2024/ajax/</link>
+      <pubDate>Sat, 28 Dec 2024 22:02:42 +0800</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/post/2024/ajax/</guid>
+      <description>&lt;p&gt;AJAX (Asynchronous JavaScript and XML) là một kỹ thuật cho phép bạn gửi và nhận dữ liệu từ máy chủ mà không cần tải lại toàn bộ trang web. Điều này giúp tạo ra các ứng dụng web động và tương tác hơn. Trong hướng dẫn này, bạn sẽ tìm hiểu về cách sử dụng AJAX trong JavaScript.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lưu ý&lt;/strong&gt;:Để xem thêm các hướng dẫn khác, hãy truy cập &lt;a href=&#34;https://www.w3schools.com/js/&#34;&gt; Hướng dẫn JavaScript trên W3Schools&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;yêu-cầu&#34;&gt;Yêu cầu&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Trình duyệt web&lt;/strong&gt; Bất kỳ trình duyệt hiện đại nào (Chrome, Firefox, Safari, Edge) đều có thể chạy JavaScript..&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Công cụ để chỉnh sửa mã.&lt;/strong&gt; Bất kỳ trình soạn thảo văn bản hoặc IDE (như IntelliJ IDEA, Eclipse hoặc NetBeans) nào cũng đều phù hợp..&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Khám Phá HTML DOM Trong JavaScript</title>
+      <link>https://blogthieu.netlify.app/post/2024/dom/</link>
+      <pubDate>Sat, 28 Dec 2024 22:02:42 +0800</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/post/2024/dom/</guid>
+      <description>&lt;p&gt;Document Object Model (DOM) là một giao diện lập trình cho phép JavaScript tương tác với các phần tử HTML trên trang web. DOM đại diện cho cấu trúc của tài liệu HTML dưới dạng một cây đối tượng, cho phép bạn thay đổi nội dung, cấu trúc và kiểu dáng của trang web một cách động. Trong hướng dẫn này, bạn sẽ tìm hiểu về cách sử dụng DOM trong JavaScript.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lưu ý&lt;/strong&gt;:Để xem thêm các hướng dẫn khác, hãy truy cập &lt;a href=&#34;https://www.w3schools.com/js/&#34;&gt; Hướng dẫn JavaScript trên W3Schools&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;yêu-cầu&#34;&gt;Yêu cầu&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Trình duyệt web&lt;/strong&gt; Bất kỳ trình duyệt hiện đại nào (Chrome, Firefox, Safari, Edge) đều có thể chạy JavaScript..&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Công cụ để chỉnh sửa mã.&lt;/strong&gt; Bất kỳ trình soạn thảo văn bản hoặc IDE (như IntelliJ IDEA, Eclipse hoặc NetBeans) nào cũng đều phù hợp..&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Khám Phá Lập Trình Hướng Đối Tượng (OOP) Trong Java</title>
+      <link>https://blogthieu.netlify.app/post/2024/oop_java/</link>
+      <pubDate>Sat, 28 Dec 2024 22:02:42 +0800</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/post/2024/oop_java/</guid>
+      <description>&lt;p&gt;Lập trình hướng đối tượng (OOP) là một phương pháp lập trình mạnh mẽ cho phép bạn tổ chức mã của mình theo cách dễ hiểu và dễ bảo trì. Java là một ngôn ngữ lập trình hoàn toàn hướng đối tượng, và trong hướng dẫn này, bạn sẽ tìm hiểu về các khái niệm cơ bản của OOP trong Java.&lt;/p&gt;&#xA;&lt;p&gt;Lưu ý: Để xem thêm các hướng dẫn khác, hãy truy cập &lt;a href=&#34;https://www.w3schools.com/java/&#34;&gt; Hướng dẫn Java trên W3Schools.&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;yêu-cầu&#34;&gt;Yêu cầu&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cài đặt Java Development Kit (JDK).&lt;/strong&gt; Đảm bảo bạn đã cài đặt JDK 8 hoặc phiên bản mới hơn.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Công cụ để chỉnh sửa mã.&lt;/strong&gt; Bất kỳ trình soạn thảo văn bản hoặc IDE (như IntelliJ IDEA, Eclipse hoặc NetBeans) nào cũng đều phù hợp..&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Một terminal.&lt;/strong&gt; Java hoạt động tốt trên bất kỳ terminal nào trên Linux và Mac, cũng như trên Command Prompt hoặc PowerShell trong Windows&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hãy chắc chắn rằng bạn đã cài đặt JDK từ &lt;a href=&#34;https://www.oracle.com/java/technologies/downloads/#java11?er=221886&#34;&gt;trang chính thức của Oracle.&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Khám Phá Lớp Trong Java</title>
+      <link>https://blogthieu.netlify.app/post/2024/class_java/</link>
+      <pubDate>Sat, 28 Dec 2024 22:02:42 +0800</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/post/2024/class_java/</guid>
+      <description>&lt;p&gt;Java là một ngôn ngữ lập trình hướng đối tượng, cho phép bạn tổ chức mã của mình thành các lớp và đối tượng. Trong hướng dẫn này, bạn sẽ tìm hiểu về cách tạo và sử dụng lớp trong Java, cũng như các khái niệm liên quan đến lập trình hướng đối tượng.&lt;/p&gt;&#xA;&lt;p&gt;Lưu ý: Để xem thêm các hướng dẫn khác, hãy truy cập &lt;a href=&#34;https://www.w3schools.com/java/&#34;&gt; Hướng dẫn Java trên W3Schools.&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;yêu-cầu&#34;&gt;Yêu cầu&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cài đặt Java Development Kit (JDK).&lt;/strong&gt; Đảm bảo bạn đã cài đặt JDK 8 hoặc phiên bản mới hơn.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Công cụ để chỉnh sửa mã.&lt;/strong&gt; Bất kỳ trình soạn thảo văn bản hoặc IDE (như IntelliJ IDEA, Eclipse hoặc NetBeans) nào cũng đều phù hợp..&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Một terminal.&lt;/strong&gt; Java hoạt động tốt trên bất kỳ terminal nào trên Linux và Mac, cũng như trên Command Prompt hoặc PowerShell trong Windows&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hãy chắc chắn rằng bạn đã cài đặt JDK từ &lt;a href=&#34;https://www.oracle.com/java/technologies/downloads/#java11?er=221886&#34;&gt;trang chính thức của Oracle.&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Khám Phá Lớp Trong JavaScript</title>
+      <link>https://blogthieu.netlify.app/post/2024/class_js/</link>
+      <pubDate>Sat, 28 Dec 2024 22:02:42 +0800</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/post/2024/class_js/</guid>
+      <description>&lt;p&gt;JavaScript là một ngôn ngữ lập trình linh hoạt, hỗ trợ lập trình hướng đối tượng thông qua việc sử dụng lớp (classes). Trong hướng dẫn này, bạn sẽ tìm hiểu về cách định nghĩa và sử dụng lớp trong JavaScript, cũng như các khái niệm liên quan đến lập trình hướng đối tượng.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lưu ý&lt;/strong&gt;:Để xem thêm các hướng dẫn khác, hãy truy cập &lt;a href=&#34;https://www.w3schools.com/js/&#34;&gt; Hướng dẫn JavaScript trên W3Schools&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;yêu-cầu&#34;&gt;Yêu cầu&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Trình duyệt web&lt;/strong&gt; Bất kỳ trình duyệt hiện đại nào (Chrome, Firefox, Safari, Edge) đều có thể chạy JavaScript..&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Công cụ để chỉnh sửa mã.&lt;/strong&gt; Bất kỳ trình soạn thảo văn bản hoặc IDE (như IntelliJ IDEA, Eclipse hoặc NetBeans) nào cũng đều phù hợp..&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Khám Phá Thư Viện và Framework Java</title>
+      <link>https://blogthieu.netlify.app/post/2024/thuvien_java/</link>
+      <pubDate>Sat, 28 Dec 2024 22:02:42 +0800</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/post/2024/thuvien_java/</guid>
+      <description>&lt;p&gt;Java là một ngôn ngữ lập trình mạnh mẽ với một hệ sinh thái phong phú các thư viện và framework. Những công cụ này giúp lập trình viên phát triển ứng dụng nhanh chóng và hiệu quả hơn. Trong hướng dẫn này, bạn sẽ tìm hiểu về một số thư viện và framework phổ biến trong Java.&lt;/p&gt;&#xA;&lt;p&gt;Lưu ý: Để xem thêm các hướng dẫn khác, hãy truy cập &lt;a href=&#34;https://www.w3schools.com/java/&#34;&gt; Hướng dẫn Java trên W3Schools.&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;yêu-cầu&#34;&gt;Yêu cầu&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cài đặt Java Development Kit (JDK).&lt;/strong&gt; Đảm bảo bạn đã cài đặt JDK 8 hoặc phiên bản mới hơn.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Công cụ để chỉnh sửa mã.&lt;/strong&gt; Bất kỳ trình soạn thảo văn bản hoặc IDE (như IntelliJ IDEA, Eclipse hoặc NetBeans) nào cũng đều phù hợp..&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Một terminal.&lt;/strong&gt; Java hoạt động tốt trên bất kỳ terminal nào trên Linux và Mac, cũng như trên Command Prompt hoặc PowerShell trong Windows&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hãy chắc chắn rằng bạn đã cài đặt JDK từ &lt;a href=&#34;https://www.oracle.com/java/technologies/downloads/#java11?er=221886&#34;&gt;trang chính thức của Oracle.&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Khám Phá Web APIs Trong JavaScript</title>
+      <link>https://blogthieu.netlify.app/post/2024/jswebapi/</link>
+      <pubDate>Sat, 28 Dec 2024 22:02:42 +0800</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/post/2024/jswebapi/</guid>
+      <description>&lt;p&gt;Web APIs (Application Programming Interfaces) là các giao diện cho phép JavaScript tương tác với các tính năng của trình duyệt và các dịch vụ bên ngoài. Chúng cung cấp các phương thức và thuộc tính để thực hiện các tác vụ như thao tác với DOM, xử lý sự kiện, và giao tiếp với máy chủ. Trong hướng dẫn này, bạn sẽ tìm hiểu về một số Web APIs phổ biến và cách sử dụng chúng trong JavaScript&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lưu ý&lt;/strong&gt;:Để xem thêm các hướng dẫn khác, hãy truy cập &lt;a href=&#34;https://www.w3schools.com/js/&#34;&gt; Hướng dẫn JavaScript trên W3Schools&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;yêu-cầu&#34;&gt;Yêu cầu&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Trình duyệt web&lt;/strong&gt; Bất kỳ trình duyệt hiện đại nào (Chrome, Firefox, Safari, Edge) đều có thể chạy JavaScript..&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Công cụ để chỉnh sửa mã.&lt;/strong&gt; Bất kỳ trình soạn thảo văn bản hoặc IDE (như IntelliJ IDEA, Eclipse hoặc NetBeans) nào cũng đều phù hợp..&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Collections No.1</title>
+      <link>https://blogthieu.netlify.app/collections/2023/collections/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/collections/2023/collections/</guid>
+      <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collections No.2</title>
+      <link>https://blogthieu.netlify.app/collections/2023/collections2/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/collections/2023/collections2/</guid>
+      <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collections No.3</title>
+      <link>https://blogthieu.netlify.app/collections/2023/collections3/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/collections/2023/collections3/</guid>
+      <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collections No.4</title>
+      <link>https://blogthieu.netlify.app/collections/2023/collections4/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/collections/2023/collections4/</guid>
+      <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collections No.5</title>
+      <link>https://blogthieu.netlify.app/collections/2023/collections5/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/collections/2023/collections5/</guid>
+      <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collections No.6</title>
+      <link>https://blogthieu.netlify.app/collections/2023/collections6/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/collections/2023/collections6/</guid>
+      <description>&lt;p&gt;Articles about learn in public, brag document and free stuffs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;learn-in-public&#34;&gt;Learn In Public&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.&lt;br&gt;&#xA;A habit of creating learning exhaust:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Note 1</title>
+      <link>https://blogthieu.netlify.app/notes/2020/change/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/notes/2020/change/</guid>
+      <description>&lt;p&gt;Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Note 2</title>
+      <link>https://blogthieu.netlify.app/notes/2020/change2/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/notes/2020/change2/</guid>
+      <description>&lt;p&gt;Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Note 3</title>
+      <link>https://blogthieu.netlify.app/notes/2020/change3/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/notes/2020/change3/</guid>
+      <description>&lt;p&gt;Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

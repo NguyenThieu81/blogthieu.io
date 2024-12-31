@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ThieuBlog</title>
+    <link>https://blogthieu.netlify.app/tags/</link>
+    <description>Recent content in Tags on ThieuBlog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>thieu080103@gmail.com (Nguyễn Văn Thiều)</managingEditor>
+    <webMaster>thieu080103@gmail.com (Nguyễn Văn Thiều)</webMaster>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blogthieu.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newsletter</title>
+      <link>https://blogthieu.netlify.app/tags/newsletter/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><author>thieu080103@gmail.com (Nguyễn Văn Thiều)</author>
+      <guid>https://blogthieu.netlify.app/tags/newsletter/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
